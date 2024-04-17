@@ -14,10 +14,10 @@ Experienced in applying various machine learning algorithms such as Logistic Reg
 ### Statistical Analysis: 
 Conducted thorough model evaluations using metrics such as accuracy, precision, recall, and F1-scores to assess and compare model performances.
 
-###Data Visualization: 
+### Data Visualization: 
 Used confusion matrices for some models to analyze true positives, false negatives, and false positives, enabling a detailed assessment of model predictions versus actual Eras a lyrics belong to.
 
-###Feature Engineering: 
+### Feature Engineering: 
 Transformed text data into a numerical format using TF-IDF, laying the groundwork for effective model training.
 Enhanced feature engineering by incorporating n-grams into TF-IDF vectorization, capturing local context and improving model accuracy.
 
